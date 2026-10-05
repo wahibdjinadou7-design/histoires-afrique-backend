@@ -1,5 +1,6 @@
 fastapi
-uvicorn
-gtts
+uvicorn[standard]
+gTTS
+pydantic
 requests
 python-multipart
